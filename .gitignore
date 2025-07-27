@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Android
+android/build/
+android/app/build/
+android/app/src/main/assets/
+android/.gradle/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/app/google-services.json
+
+# iOS
+ios/build/
+ios/Pods/
+
+# Misc
+.DS_Store
+*.pem
